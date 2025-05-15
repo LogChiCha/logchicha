@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello :)
 
 University student in the computer science space.
 
